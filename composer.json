@@ -58,8 +58,7 @@
         "drupal/simple_gmap":                   "~3.0.1",
         "drupal/honeypot":                      "^2.0",
         "drupal/css_editor":                    "^2.0",
-        "drupal/tft":                           "^3.0",
-        "drupal/aristotle":                     "^3.0"
+        "drupal/tft":                           "^3.0"
     },
     "extra": {
         "patches": {
